@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/shivakrishna170434/DevOpsProj1/_apis/build/status%2FShivaGit2000.pipelines-java?branchName=main)](https://dev.azure.com/shivakrishna170434/DevOpsProj1/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
